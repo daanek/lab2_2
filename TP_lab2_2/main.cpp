@@ -5,9 +5,12 @@
 using namespace std;
 
 //обработка исключений в первой и во второй git
-
+// git one commit
 int slova(string a, string word)
-{
+{     
+
+
+
     int k = 0;
     string b;
     a += ' ';
@@ -52,6 +55,9 @@ int main()
             }
         }
             rezult.append("\n");
-    }
-    return 0;
+    }  
+
+
+
+    return 1;
 }
