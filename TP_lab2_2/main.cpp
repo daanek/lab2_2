@@ -4,8 +4,6 @@
 
 using namespace std;
 
-//обработка исключений в первой и во второй git
-// git one commit
 int slova(string a, string word)
 {     
 
